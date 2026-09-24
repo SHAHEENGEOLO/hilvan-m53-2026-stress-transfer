@@ -1,0 +1,21 @@
+name: hilvan-m53-2026
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - pandas>=2.0
+  - scipy>=1.11
+  - matplotlib>=3.8
+  - obspy>=1.4.2
+  - pyproj>=3.6
+  - requests>=2.31
+  - tqdm>=4.66
+  - contextily>=1.5
+  - xyzservices
+  - plotly>=5.20
+  - jupyterlab>=4.0
+  - nbformat>=5.9
+  - pip
+  - pip:
+      - pyrocko>=2026.6.2

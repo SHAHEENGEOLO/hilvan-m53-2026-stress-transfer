@@ -1,0 +1,28 @@
+{
+  "title": "Hilvan M5.3 (24 September 2026): rapid focal mechanism and Coulomb stress-transfer reproducibility archive",
+  "upload_type": "dataset",
+  "description": "Reproducibility archive for the rapid first-hours analysis of USGS event us6000tx9u. Includes Jupyter notebooks, derived P-polarity/focal-mechanism tables, NP1/NP2 Coulomb grids, quality-control products, publication figures, provenance metadata, and raw waveform file manifest. Raw provider waveform bytes are not redistributed; users should retrieve them from the original FDSN/network providers. The focal mechanism is exploratory and underconstrained.",
+  "creators": [
+    {
+      "name": "Ahmed, Shaheen Mohammed Saleh",
+      "affiliation": "Department of Applied Geology, College of Science, University of Kirkuk, Kirkuk, Iraq",
+      "orcid": "0000-0002-9289-128X"
+    }
+  ],
+  "keywords": [
+    "seismology",
+    "focal mechanism",
+    "Coulomb failure stress",
+    "static stress transfer",
+    "Hilvan",
+    "Sanliurfa",
+    "Turkey",
+    "Turkiye",
+    "earthquake",
+    "USGS us6000tx9u"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}

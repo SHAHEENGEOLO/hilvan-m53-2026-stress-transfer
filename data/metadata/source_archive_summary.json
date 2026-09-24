@@ -1,0 +1,35 @@
+{
+  "source_archive_name": "Hilvan_M53_Focal_Coulomb_Work.zip",
+  "event": {
+    "Id": "us6000tx9u",
+    "Time": "2026-09-24T07:40:58.138Z",
+    "Latitude": 37.4736,
+    "Longitude": 38.8612,
+    "Depth": 10,
+    "Magnitude": 5.3,
+    "Place": "15 km SSW of Hilvan, Turkey"
+  },
+  "download_radius_km": 200,
+  "download_start": "2026-09-24T07:35:58.138Z",
+  "download_end": "2026-09-24T08:40:58.138Z",
+  "raw_file_counts_manifest": {
+    "SAC": 199,
+    "MiniSEED": 32,
+    "StationXML": 25
+  },
+  "raw_files_redistributed": false,
+  "reason_raw_not_redistributed": "Raw MiniSEED/SAC/StationXML remain attributable to their original seismic-network/FDSN providers. This release archives the exact derived measurements/grids plus a raw-file manifest and download workflow.",
+  "derived_solution_status": "EXPLORATORY_UNDERCONSTRAINED_AUTO",
+  "n_polarities": 5,
+  "azimuth_gap_deg": 207.65590099999997,
+  "NP1": {
+    "strike": 118.0,
+    "dip": 66.0,
+    "rake": -50.0
+  },
+  "NP2": {
+    "strike": 233.86085327929746,
+    "dip": 45.587722683742726,
+    "rake": -145.29147906417612
+  }
+}

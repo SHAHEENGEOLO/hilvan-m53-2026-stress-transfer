@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the Zenodo record and the associated paper."
+title: "Hilvan M5.3 (24 September 2026): rapid focal mechanism and Coulomb stress-transfer reproducibility archive"
+type: dataset
+authors:
+  - family-names: "Ahmed"
+    given-names: "Shaheen Mohammed Saleh"
+    orcid: "https://orcid.org/0000-0002-9289-128X"
+    affiliation: "Department of Applied Geology, College of Science, University of Kirkuk, Kirkuk, Iraq"
+version: 1.0.0
+date-released: 2026-09-24
+license: CC-BY-4.0
+repository-code: "https://github.com/REPLACE_WITH_USERNAME/hilvan-m53-2026-stress-transfer"
+keywords:
+  - seismology
+  - focal mechanism
+  - Coulomb stress
+  - earthquake
+  - Hilvan
+  - Sanliurfa
+  - Turkiye

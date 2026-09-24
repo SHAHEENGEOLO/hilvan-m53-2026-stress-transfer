@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local work and raw waveform archives
+work/
+data/raw/*.zip
+data/raw/*.mseed
+data/raw/*.sac
+data/raw/*.xml
+
+# Generated publication output
+data/derived/study_snapshot/publication_supplement/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

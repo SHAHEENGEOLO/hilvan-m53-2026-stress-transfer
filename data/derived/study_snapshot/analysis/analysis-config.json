@@ -1,0 +1,7 @@
+{
+  "VelocityModel": "iasp91",
+  "FilterLowHz": 0.5,
+  "FilterHighHz": 20,
+  "OutputUnits": "VEL",
+  "SelectedAnalysis": 0
+}

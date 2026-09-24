@@ -1,0 +1,14 @@
+{
+  "Event": {
+    "Id": "us6000tx9u",
+    "Time": "2026-09-24T07:40:58.138Z",
+    "Latitude": 37.4736,
+    "Longitude": 38.8612,
+    "Depth": 10,
+    "Magnitude": 5.3,
+    "Place": "15 km SSW of Hilvan, Turkey"
+  },
+  "RadiusKm": 200,
+  "Start": "2026-09-24T07:35:58.138Z",
+  "End": "2026-09-24T08:40:58.138Z"
+}
